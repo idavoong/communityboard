@@ -1,0 +1,28 @@
+#root {
+  min-width: 600px;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 5rem;
+  align-items: center;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  background-color: lightblue;
+  margin: 50px;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 3rem;
+  margin: 10px;
+}
+
+.centers {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  width: 100%;
+}
