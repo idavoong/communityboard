@@ -28,8 +28,12 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://imgur.com/BrZYiCN' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+https://github.com/idavoong/communityboard/assets/60492208/d0b1035b-7642-4d2b-9419-2f2b6909a3d0
+
+
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Nvidia ShadowPlay and uploaded on Imgur. 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
